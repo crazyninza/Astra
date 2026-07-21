@@ -2,6 +2,12 @@ Name: Mohammad Hashid
 College: NIT Srinagar
 Branch: Information Technology
 
+<<<<<<< HEAD
 Name: Ali Zayad Ahmad
 College: IIT Jodhpur
 Branch: AI
+=======
+Name: Wasim Akram 
+College: IIT Jodhpur 
+Branch: Civil and Infrastructure Engineering
+>>>>>>> b4ed705d8ad22f4f02ebc3b5acdef9011472e0f4
