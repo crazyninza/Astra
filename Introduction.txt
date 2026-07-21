@@ -1,3 +1,7 @@
 Name: Mohammad Hashid
 College: NIT Srinagar
 Branch: Information Technology
+
+Name: Wasim Akram 
+College: IIT Jodhpur 
+Branch: Civil and Infrastructure Engineering
