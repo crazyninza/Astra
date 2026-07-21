@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Name: Wasim Akram
 Hobbies: Gym, Algorithmic Solving, Exploring new things
+=======
+Name: Mohammad Hashid
+Hobbies: Table tennis, Badminton
+>>>>>>> b327d534b791015d8c9dd72657dea3387cb85170

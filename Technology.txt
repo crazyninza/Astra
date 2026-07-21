@@ -1,2 +1,5 @@
 Name: Wasim Akram 
 Technology: C++ , DSA , OS , CN , full stack , JavaScript , Java , system design 
+
+Name: Mohammad Hashid
+Tech: C/C++, Java, Python, DBMS
