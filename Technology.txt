@@ -1,0 +1,2 @@
+Name: Mohammad Hashid
+Tech: C/C++, Java, Python, DBMS
