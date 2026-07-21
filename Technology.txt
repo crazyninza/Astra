@@ -1,2 +1,12 @@
 Name: Mohammad Hashid
 Tech: C/C++, Java, Python, DBMS
+
+Ali Technology I aware of:
+    Programming Languages: C++, Python, JavaScript, TypeScript, Go, SQL
+    Backend: Django, Django REST Framework (DRF), FastAPI, Gin (Go), NestJS
+    Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
+    Databases: PostgreSQL, SQLite, Supabase
+    Machine Learning & AI: TensorFlow, Scikit-learn, PyTorch, LangChain, Sentence Transformers, FAISS, Whisper, Librosa
+    Cloud & DevOps: Docker, Google Cloud Run, Render, Redis
+    Tools & Technologies: Git, GitHub, Postman, VS Code, Playwright, Ollama
+    Data Science: Pandas, NumPy, Matplotlib, Statsmodels
