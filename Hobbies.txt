@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 Name: Wasim Akram
 Hobbies: Gym, Algorithmic Solving, Exploring new things
-=======
 Name: Mohammad Hashid
 Hobbies: Table tennis, Badminton
-<<<<<<< HEAD
 
 Ali:
  My hobbies is playing badminton and cp
-=======
->>>>>>> b327d534b791015d8c9dd72657dea3387cb85170
->>>>>>> b4ed705d8ad22f4f02ebc3b5acdef9011472e0f4
