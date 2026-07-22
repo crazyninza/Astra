@@ -3,8 +3,6 @@ Technology: C++ , DSA , OS , CN , full stack , JavaScript , Java , system design
 
 Name: Mohammad Hashid
 Tech: C/C++, Java, Python, DBMS
-<<<<<<< HEAD
-
 Ali Technology I aware of:
     Programming Languages: C++, Python, JavaScript, TypeScript, Go, SQL
     Backend: Django, Django REST Framework (DRF), FastAPI, Gin (Go), NestJS
@@ -14,5 +12,3 @@ Ali Technology I aware of:
     Cloud & DevOps: Docker, Google Cloud Run, Render, Redis
     Tools & Technologies: Git, GitHub, Postman, VS Code, Playwright, Ollama
     Data Science: Pandas, NumPy, Matplotlib, Statsmodels
-=======
->>>>>>> b4ed705d8ad22f4f02ebc3b5acdef9011472e0f4
